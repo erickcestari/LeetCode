@@ -3,4 +3,5 @@ go 1.21.3
 use (
 	"./5 - longestPalindrome"
 	"./6 - zigzagConversion"
+	./7-reverseInteger
 )
