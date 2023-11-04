@@ -4,4 +4,5 @@ use (
 	"./5 - longestPalindrome"
 	"./6 - zigzagConversion"
 	./7-reverseInteger
+	./9-palindromeNumber
 )
