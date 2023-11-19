@@ -4,6 +4,9 @@ use (
 	"./5 - longestPalindrome"
 	"./6 - zigzagConversion"
 	./10-regularExpression
+	./11-containerWithMostWater
+	./12-intToRoman
+	./13-romanToInt
 	./7-reverseInteger
 	./9-palindromeNumber
 )
